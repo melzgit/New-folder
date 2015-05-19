@@ -1,0 +1,14 @@
+The Apex Application Has the follwing Features
+
+- Page with tabular form and an interactive report.
+- Jquery multiple tab applied to show the above two in 2 seperate tabs
+
+-Manual Tabular Form with insert update and delete
+
+- Error handling for salary  and  commision to check if non numeric values are entered. 
+
+- Department , Manager and Job columns are created as select lists using LOVs to avoid invalid input
+
+- Success / Error messages
+
+
