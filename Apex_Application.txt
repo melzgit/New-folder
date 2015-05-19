@@ -11,4 +11,10 @@ The Apex Application Has the follwing Features
 
 - Success / Error messages
 
+- Add Rows Button will Add a row to the tabular form.
+
+- Apply Changes Button will insert and update records
+
+- Delete Button will delete records
+
 
